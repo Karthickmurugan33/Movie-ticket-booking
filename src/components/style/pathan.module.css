@@ -1,0 +1,32 @@
+.tdiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.gap {
+    height: 100px;
+}
+.gap1 {
+    width: 100px;
+}
+
+
+.check {
+
+width: 40px;
+height: 40px;
+}
+
+input[type='checkbox']:checked {
+    
+
+    accent-color: green;
+  
+    
+}
+
+
+
+  
